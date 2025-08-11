@@ -84,5 +84,3 @@ Run all cells to reproduce the results.
 
 ---
 
-## 📝 License
-MIT
